@@ -1,0 +1,8 @@
+{
+    "name":  "jQuery-cascadingList",
+    "version": "1.0.0",
+    "main": ["src/jquery.cascadingList.js","src/jquery.cascadingList.css"],
+    "dependencies": {
+        "jquery": ">=1.2.0"
+    }
+}
